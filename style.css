@@ -1,0 +1,9 @@
+#wall{
+    display: flexbox;
+   
+}
+#wall div{
+    border: 1px solid black;
+    height: 30px;
+   
+}
